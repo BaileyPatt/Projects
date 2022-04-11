@@ -1,0 +1,16 @@
+ *{
+    font-size : 24px
+    font-style : italic;
+}
+
+.heading {
+  color : #5a763e
+}
+
+.padding {
+  padding : 2px 4px;
+}
+
+.blueBg {
+  background-color: blue;
+}
